@@ -1,3 +1,5 @@
 obj
 bin
 .env
+Labfiles/07-custom-vision-image-classification/Python/train-classifier/.env
+Labfiles/07-custom-vision-image-classification/Python/test-classifier/.env
